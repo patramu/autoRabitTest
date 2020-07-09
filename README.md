@@ -1,2 +1,2 @@
 # autoRabitTest
-This for testing the autoRabit env.
+This Repository for testing the autoRabit env.
